@@ -28,3 +28,4 @@ docker run -it --rm \
 - `bash`:放在镜像后的是命令，这里是因为需要有个交互的shell 因此使用了`bash`
 `cat /etc/os-release`，Linux查看当前系统版本命令、可返回查看容器是什么系统。
 - exit退出容器
+- 
